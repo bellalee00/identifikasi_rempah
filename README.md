@@ -34,8 +34,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/bellalee00/identifikasi_rempah.git
 
-## 📄 License
-![MIT License](download/mit_license_logo.png)
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
