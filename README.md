@@ -6,9 +6,9 @@ Welcome to the Spice Classification project! This repository contains code and r
 - [Overview](#-overview)
 - [Dataset](#-dataset)
 - [Getting Started](#%EF%B8%8F-getting-started)
-- [Model Architecture](#-model-architecture)
-- [Training and Evaluation](#-training-and-evaluation)
-- [Results](#-results)
+- [Model Architecture]
+- [Training and Evaluation]
+- [Results]
 
 
 ## 🌟 Overview
@@ -17,7 +17,7 @@ This project aims to build a robust image classification model to identify vario
 ## 📊 Dataset
 The dataset used in this project consists of labeled images of different spices, including Jahe (Ginger), Lengkuas (Galangal), and an "Unknown" category.
 
-- **Source:** Stored on [Google Drive](insert_google_drive_link_here)
+- **Source:** Stored on [Google Drive](https://drive.google.com/drive/folders/1AvIBvLZY9bVj7k5r4cVPZ4SaWIABgRZf?usp=sharing)
 - **Format:** Images in JPEG/PNG format
 - **Labels:** Each image is labeled with the corresponding spice type
 
